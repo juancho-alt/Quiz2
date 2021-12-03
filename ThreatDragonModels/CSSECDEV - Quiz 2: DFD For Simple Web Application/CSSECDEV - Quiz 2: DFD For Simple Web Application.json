@@ -55,7 +55,7 @@
                 "height": 100
               },
               "position": {
-                "x": 573,
+                "x": 571,
                 "y": 322
               },
               "angle": 0,
@@ -185,7 +185,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "SQL Databa"
+                  "text": "SQL Database"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
